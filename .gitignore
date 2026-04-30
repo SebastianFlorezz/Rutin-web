@@ -1,0 +1,11 @@
+#dependencies
+server/node_modules/
+
+# .env files
+
+server/.env
+
+
+#custom
+package-lock.json
+idea.md
